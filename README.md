@@ -1,26 +1,38 @@
-# search-the-book
-## Technology Used
-
-| Technology Used         | Resource URL           | 
-| ------------- |:-------------:| 
-| HTML    |  | 
-| CSS     |       |   
-| Git |      |  
+# Search-The-Book
 
 ## Description
+
+Search the book is an application that allows users to search up books that have interest to them and save them under their account that they made. 
 
 [Click here for Deployed Site]()
 
 
+## Images
 
+![Animation shows "star wars" typed into a search box and books about Star Wars appearing as results.](./images/21-mern-challenge-demo-01.gif)
+
+![Animation shows user clicking "Save This Book!" button to save books that appear in search results. The button label changes to "Book Already Saved" after it is clicked and the book is saved.](./images/21-mern-challenge-demo-02.gif)
+
+![image]()
 
 ## Table of Contents 
-* [Code Examples](#code-examples)
 * [Usage](#usage)
+* [Technology Used](#technology-used)
 * [Learning Points](#learning-points)
 * [Author Info](#author-info)
 * [Credits](#credits)
 * [License](#license)
+
+## Usage
+
+## Technology Used
+
+| Technology Used         | Resource URL           | 
+| ------------- |:-------------:| 
+|     |  | 
+|      |       |   
+| Git |      |  
+
 
 ## Learning Points
 
@@ -29,14 +41,14 @@
 ## Author Info
 
 ### Michael Reyna
-[LinkedIn]()
+[LinkedIn](https://www.linkedin.com/in/michael-reyna-35b597245/)
 
-[GitHub]()
+[GitHub](https://github.com/michaelreyna25)
 ## Credits 
 
 |Resource | Link |
 |-------|:-------:|
-|Scrollbar |  |
+| |  |
 |      |    |
 ## License
 MIT License
